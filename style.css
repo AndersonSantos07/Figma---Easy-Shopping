@@ -24,7 +24,12 @@
     font-size: 70px;
     line-height: 80px;
     width:368px;
+    text-shadow:2px 2px 1px rgb(228, 217, 217);
 
+}
+
+.headline:hover{
+    color:rgba(0, 0, 0, 0.699)
 }
 .paragraph{
     font-size: 28px;
@@ -33,6 +38,11 @@
     mix-blend-mode: normal;
     width:540px;
     margin: 15px 0;
+
+}
+
+.paragraph:hover{
+    text-shadow:1px 1px 10px rgba(0, 0, 0, 0.466);
 
 }
 .container-left-button{
